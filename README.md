@@ -101,12 +101,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supunhkas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=supunhkas&theme=tokyonight&hide_border=true" />
-</div>
+## 📊 Most Used Languages
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supunhkas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
